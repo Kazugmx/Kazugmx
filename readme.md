@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Cyber security, Bug bounty, Application development
 - 🌱 I’m currently learning ... Kotlin, Python
 - ✉️ contact
-  1. [website](www.kazugmx.net)
+  1. [website](https://www.kazugmx.net)
   2. Mail : [kazu@kazugmx.net](mailto://kazu@kazugmx.net)
   3. Discord : kazu_gmx
 
