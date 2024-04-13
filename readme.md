@@ -10,3 +10,6 @@
 Kazugmx/Kazugmx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+misc.
+そろそろ真面目になにか作るか:3c
