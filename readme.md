@@ -1,4 +1,4 @@
-- 👋 I’m @Kazugmx. Call me Kazu!
+- 👋 I’m @Kazugmx. Call me Kazu! (Hikaru)
 - 👀 I’m interested in ... Cyber security, Bug bounty, Application development
 - 🌱 I’m currently learning ... Kotlin, Python
 - ✉️ contact
