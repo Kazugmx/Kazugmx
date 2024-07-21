@@ -6,11 +6,11 @@
   2. Mail : [kazu@kazugmx.net](mailto://kazu@kazugmx.net)
   3. Discord : kazu_gmx
 
-### learning
-[![My Skills](https://skillicons.dev/icons?i=cpp,css,ts,docker,figma,go,html,react,nextjs,ts,ubuntu,)](https://skillicons.dev)
 
-### my skills
-[![My Skills](https://skillicons.dev/icons?i=ubuntu,java,kotlin,kali,linux,py,git)](https://skillicons.dev)
+### learning / interested
+[![My Skills](https://skillicons.dev/icons?i=cpp,css,ts,js,docker,figma,go,html,react,nextjs,ubuntu,kali,&perline=4)](https://skillicons.dev)
+### my skill
+[![My Skills](https://skillicons.dev/icons?i=ubuntu,java,kotlin,linux,py,git&perline=3)](https://skillicons.dev)
 
 
 ![kazu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazugmx&show_icons=true&theme=cobalt)
