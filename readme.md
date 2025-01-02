@@ -1,4 +1,4 @@
-- 👋 I’m @Kazugmx. Call me Kazu! (Hikaru)
+- 👋 I’m @Kazugmx. Call me Kazu!
 - 👀 I’m interested in ... Cyber security, Bug bounty, Application development
 - 🌱 I’m currently learning ... Kotlin, Python
 - ✉️ contact
@@ -19,5 +19,3 @@ Kazugmx/Kazugmx is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-misc.
-そろそろ真面目になにか作るか:3c
