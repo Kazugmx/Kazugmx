@@ -10,7 +10,7 @@
 ### learning / interested
 [![My Skills](https://skillicons.dev/icons?i=cpp,css,ts,js,docker,figma,go,html,react,nextjs,ubuntu,kali,&perline=4)](https://skillicons.dev)
 ### my skill
-[![My Skills](https://skillicons.dev/icons?i=ubuntu,java,kotlin,linux,py,git&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ubuntu,java,kotlin,linux,py,git,ktor&perline=3)](https://skillicons.dev)
 
 
 ![kazu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazugmx&show_icons=true&theme=cobalt)
